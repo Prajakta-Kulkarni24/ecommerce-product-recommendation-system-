@@ -82,7 +82,7 @@ https://github.com/Prajakta-Kulkarni24/ecommerce-product-recommendation-system-.
 
 2. Navigate to the Project
 
-cd E-Commerce-Recommendation-System
+cd ecommerce-product-recommendation-system-
 
 3. Set Up the PHP Application
 
