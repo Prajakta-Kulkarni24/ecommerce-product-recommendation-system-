@@ -78,7 +78,7 @@ Note: This is an illustrative structure. Actual folder and file names may differ
 
 1. Clone the Repository
 
-
+https://github.com/Prajakta-Kulkarni24/ecommerce-product-recommendation-system-.git
 
 2. Navigate to the Project
 
